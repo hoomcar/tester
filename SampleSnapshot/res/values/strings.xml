@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SampleCaptureActivity!</string>
+    <string name="app_name">SampleCapture</string>
+    <string-array name="category">
+        <item>1번 카메라</item>
+    </string-array>
+</resources>
